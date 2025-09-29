@@ -1,0 +1,55 @@
+{
+    "currency_codes": [
+        "USD",
+        "HKD"
+    ],
+    "exchanges": [
+        {
+            "name": "XCME",
+            "value": "XCME",
+            "desc": "CHICAGO MERCANTILE EXCHANGE"
+        },
+        {
+            "name": "XHKF",
+            "value": "XHKF",
+            "desc": "HONG KONG FUTURES EXCHANGE LTD"
+        },
+        {
+            "name": "XHKG",
+            "value": "XHKG",
+            "desc": "HONG KONG EXCHANGES AND CLEARING LTD"
+        },
+        {
+            "name": "XNAS",
+            "value": "XNAS",
+            "desc": "NASDAQ - ALL MARKETS"
+        },
+        {
+            "name": "XNYS",
+            "value": "XNYS",
+            "desc": "NYSE ARCA"
+        }
+    ],
+    "supported_resolutions": [
+        "1",
+        "5",
+        "15",
+        "60",
+        "D",
+        "1M",
+        "49T",
+        "343T",
+        "2401T",
+        "16807T",
+        "117649T",
+        "823543T",
+        "5764801T",
+        "40353607T"
+    ],
+    "symbol_type": [
+        "crypto",
+        "forex",
+        "future",
+        "stock"
+    ]
+}
