@@ -1,0 +1,16 @@
+name,description,exchange,listed_exchange,minmov,pricescale,session,supported_resolutions,timezone,symbol_type,build_seconds_from_ticks,corrections,currency_code,data_status,delayed,exchange_logo,expiration_date,expired,format,fractional,has_daily,has_empty_bars,has_intraday,has_seconds,has_ticks,has_weekly_and_monthly,industry,logo_urls,long_description,original_currency_code,sector,session_display,ticker,unit_id,variable_tick_size,visibible_plots_set,volume_precision
+6A,"Australian Dollar Futures",XCME,CME,1,10000,"24x7","[1, 5, 1D, 7T, 49T, 343T, 2401T, 16807T, 117649T, 823543T, 5764801T]","Etc/UTC",FUTURES,,,,,,,,,,,,,,,true,,,,,,,,6A,,,,0
+6B,"British Pound Futures",XCME,CME,1,10000,"24x7","[1, 5, 1D, 7T, 49T, 343T, 2401T, 16807T, 117649T, 823543T, 5764801T]","Etc/UTC",FUTURES,,,,,,,,,,,,,,,true,,,,,,,,6B,,,,0
+6C,"Canadian Dollar Futures",XCME,CME,1,10000,"24x7","[1, 5, 1D, 7T, 49T, 343T, 2401T, 16807T, 117649T, 823543T, 5764801T]","Etc/UTC",FUTURES,,,,,,,,,,,,,,,true,,,,,,,,6C,,,,0
+6E,"Euro FX Futures",XCME,CME,1,10000,"24x7","[1, 5, 1D, 7T, 49T, 343T, 2401T, 16807T, 117649T, 823543T, 5764801T]","Etc/UTC",FUTURES,,,,,,,,,,,,,,,true,,,,,,,,6E,,,,0
+6J,"Japanese Yen Futures",XCME,CME,1,10000,"24x7","[1, 5, 1D, 7T, 49T, 343T, 2401T, 16807T, 117649T, 823543T, 5764801T]","Etc/UTC",FUTURES,,,,,,,,,,,,,,,true,,,,,,,,6J,,,,0
+6N,"New Zealand Dollar Futures",XCME,CME,1,10000,"24x7","[1, 5, 1D, 7T, 49T, 343T, 2401T, 16807T, 117649T, 823543T, 5764801T]","Etc/UTC",FUTURES,,,,,,,,,,,,,,,true,,,,,,,,6N,,,,0
+6S,"Swiss Franc Futures",XCME,CME,1,10000,"24x7","[1, 5, 1D, 7T, 49T, 343T, 2401T, 16807T, 117649T, 823543T, 5764801T]","Etc/UTC",FUTURES,,,,,,,,,,,,,,,true,,,,,,,,6S,,,,0
+CL,"Crude Oil Futures",XCME,CME,1,10,"24x7","[1, 5, 1D, 7T, 49T, 343T, 2401T, 16807T, 117649T, 823543T, 5764801T]","Etc/UTC",FUTURES,,,,,,,,,,,,,,,true,,,,,,,,CL,,,,0
+ES,"E-mini S&P 500 Futures",XCME,CME,25,100,"24x7","[1, 5, 1D, 7T, 49T, 343T, 2401T, 16807T, 117649T, 823543T, 5764801T]","Etc/UTC",FUTURES,,,,,,,,,,,,,,,true,,,,,,,,ES,,,,0
+GC,"Gold Futures",XCME,CME,2,10,"24x7","[1, 5, 1D, 7T, 49T, 343T, 2401T, 16807T, 117649T, 823543T, 5764801T]","Etc/UTC",FUTURES,,,,,,,,,,,,,,,true,,,,,,,,GC,,,,0
+HSI,"Hang Seng Index Futures",XHKF,HKF,1,1,"24x7","[1, 5, 1D, 7T, 49T, 343T, 2401T, 16807T, 117649T, 823543T, 5764801T]","Etc/UTC",FUTURES,,,,,,,,,,,,,,,true,,,,,,,,HSI,,,,0
+MES,"Micro E-mini S&P 500 Index Futures",XCME,CME,25,100,"24x7","[1, 5, 1D, 7T, 49T, 343T, 2401T, 16807T, 117649T, 823543T, 5764801T]","Etc/UTC",FUTURES,,,,,,,,,,,,,,,true,,,,,,,,MES,,,,0
+MHI,"Mini-Hang Seng Index Futures",XHKF,HKF,1,1,"24x7","[1, 5, 1D, 7T, 49T, 343T, 2401T, 16807T, 117649T, 823543T, 5764801T]","Etc/UTC",FUTURES,,,,,,,,,,,,,,,true,,,,,,,,HSI,,,,0
+MNQ,"Micro E-mini Nasdaq-100 Index Futures",XCME,CME,25,100,"24x7","[1, 5, 1D, 7T, 49T, 343T, 2401T, 16807T, 117649T, 823543T, 5764801T]","Etc/UTC",FUTURES,,,,,,,,,,,,,,,true,,,,,,,,MNQ,,,,0
+NQ,"E-mini Nasdaq-100 Futures",XCME,CME,25,100,"24x7","[1, 5, 1D, 7T, 49T, 343T, 2401T, 16807T, 117649T, 823543T, 5764801T]","Etc/UTC",FUTURES,,,,,,,,,,,,,,,true,,,,,,,,NQ,,,,0
